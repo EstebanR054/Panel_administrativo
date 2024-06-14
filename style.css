@@ -1,5 +1,5 @@
 .fondo {
-    background-image: url(img/imgen1.jpeg);
+    background-image: url(img/);
     height: 800px;
     background-position: center;
     background-repeat: no-repeat;
@@ -54,7 +54,7 @@ body {
     min-width: 70px;
     z-index: 1000;
     transition: all .25s ease-in-out;
-    background-color: #0e2238;
+    background-color: #9B0000;
     display: flex;
     flex-direction: column;
 }
